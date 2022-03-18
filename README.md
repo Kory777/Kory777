@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, Yuang here! 👋 
+
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people. Feel free to email me if you have any idea about my work! :)</b> </em>
+<br>
+
+<p align="center">
+  <a href="https://github.com/zimo1412" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=kory777&title_color=333&text_color=777&count_private=true" alt="Kort's Stats" >
+  </a>
+</p>
 
 <!--
 **Kory777/Kory777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
